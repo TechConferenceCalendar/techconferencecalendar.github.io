@@ -1,0 +1,16 @@
+---
+layout: conference
+title:  "Microxchg 2016"
+date:   2016-03-25 12:56:33 +0100
+location: https://www.google.dk/maps/place/Kalkscheune/@52.5243327,13.3197521,12z/data=!4m2!3m1!1s0x47a851e837c93643:0xd44c06c0d6ff5dda
+country: Germany
+city: Berlin
+categories: conference
+startdate: 2016-02-04
+enddate: 2016-02-05
+numberOfDays: 2
+videos: https://www.youtube.com/channel/UCGCbB8TPtYMQmJwYVogcPjg
+website: http://microxchg.io/
+
+---
+A test post for Jekyll
