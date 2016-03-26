@@ -16,18 +16,19 @@ layout: default
       <th>Website</th>
       <th>Location</th>
     </tr>
-    {% for post in site.posts %}
+    {% assign sorted_pages = (site.posts | sort: 'startdate') %}
+    {% for post in sorted_pages %}
       <tr>
         <td><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></td>
+        <meta itemprop="startDate" content="2016-04-21T20:00">
         <td>{{post.startdate | date: "%b %-d" }}</td>
         <td>{{post.numberOfDays}}</td>
         <td>{{post.country}}</td>
         <td>{{post.city}}</td>
-        <td><a href="{{ post.website }}" target="_blank">web</a></td>
+        <td><a href="{{ post.website }}" target="_blank" itemprop="url">web</a></td>
         <td>
           <a href="{{ post.location }}" target="_blank">Google maps</a>
         </td>
-
     {% endfor %}
   </table>
   <ul class="post-list">

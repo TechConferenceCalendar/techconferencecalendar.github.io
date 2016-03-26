@@ -1,0 +1,15 @@
+---
+layout: conference
+title:  "ng europe 2016"
+date:   2016-03-26 19:34:33 +0100
+location: https://www.google.com/maps/place/Espace+Charenton/@48.832651,2.396575,17z/data=!3m1!4b1!4m2!3m1!1s0x47e67242e2b4a6a5:0xff70319942e6fc13
+country: France
+city: Paris
+categories: conference
+startdate: 2016-10-25
+enddate: 2016-10-26
+numberOfDays: 2
+videos:
+website: https://ngeurope.org/
+
+---

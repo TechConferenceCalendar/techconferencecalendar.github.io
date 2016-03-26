@@ -13,4 +13,3 @@ videos: https://www.youtube.com/channel/UCGCbB8TPtYMQmJwYVogcPjg
 website: http://microxchg.io/
 
 ---
-A test post for Jekyll
