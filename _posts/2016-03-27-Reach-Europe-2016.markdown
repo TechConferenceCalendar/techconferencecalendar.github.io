@@ -1,0 +1,15 @@
+---
+layout: conference
+title:  "React Europe 2016"
+date:   2016-03-26 18:34:33 +0100
+location: https://www.google.com/maps/place/Espace+Charenton/@48.8326509,2.3943867,17z/data=!3m1!4b1!4m2!3m1!1s0x47e67242e2b4a6a5:0xff70319942e6fc13
+country: Frence
+city: Paris
+categories: conference
+startdate: 2016-06-02
+enddate: 2016-06-03
+numberOfDays: 2
+videos:
+website: https://www.react-europe.org/
+
+---

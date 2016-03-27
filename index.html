@@ -19,7 +19,7 @@ layout: default
     {% assign sorted_pages = (site.posts | sort: 'startdate') %}
     {% for post in sorted_pages %}
       <tr>
-        <td><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></td>
+        <td><a href="{{ post.website }}">{{ post.title }}</a></td>
         <meta itemprop="startDate" content="2016-04-21T20:00">
         <td>{{post.startdate | date: "%b %-d" }}</td>
         <td>{{post.numberOfDays}}</td>
@@ -31,21 +31,4 @@ layout: default
         </td>
     {% endfor %}
   </table>
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-        <p>
-        {{post.categories}}
-        </p>
-      </li>
-    {% endfor %}
-  </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
 </div>
