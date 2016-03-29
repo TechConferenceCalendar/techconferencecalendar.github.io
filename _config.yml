@@ -12,7 +12,7 @@ description: > # this means to ignore newlines until "baseurl:"
   A list of tech conferences in europe, write me on Twitter if you think something is missing.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: techconferencecalendar
+twitter_username: techconfcal
 github_username:  techconferencecalendar
 
 # Build settings
