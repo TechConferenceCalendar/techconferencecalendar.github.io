@@ -1,0 +1,15 @@
+---
+layout: conference
+title:  "Coldfront 2016"
+date:   2016-03-31 11:34:33 +0100
+location: https://www.google.dk/maps/place/Grand+Teatret/@55.6765081,12.5688342,17z/data=!3m1!4b1!4m2!3m1!1s0x46525311f57117a3:0xaefb4407a4078bea
+country: Denmark
+city: Copenhagen
+categories: conference
+startdate: 2016-09-01
+enddate: 2016-09-01
+numberOfDays: 1
+videos: https://www.youtube.com/channel/UCZHbZVjG2wXaLCuHK3LZ5lw
+website: https://2016.coldfrontconf.com/
+
+---
