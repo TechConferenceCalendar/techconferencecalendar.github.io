@@ -9,7 +9,7 @@ categories: conference
 startdate: 2016-06-15
 enddate: 2016-06-17
 numberOfDays: 3
-videos: 
+videos: https://vimeo.com/channels/991640
 website: http://umbraco.com/cg16
 
 ---
