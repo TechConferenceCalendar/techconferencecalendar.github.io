@@ -1,0 +1,15 @@
+---
+layout: conference
+title:  "NDC Oslo 2016"
+date:   2016-04-17 8:34:33 +0100
+location:
+country: Norway
+city: Oslo
+categories: conference
+startdate: 2016-06-06
+enddate: 2016-06-10
+numberOfDays: 4
+videos:
+website: http://ndcoslo.com/
+
+---

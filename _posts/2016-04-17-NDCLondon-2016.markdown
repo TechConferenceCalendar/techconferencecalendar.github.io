@@ -1,0 +1,15 @@
+---
+layout: conference
+title:  "NDC London 2016"
+date:   2016-04-17 8:34:33 +0100
+location:
+country: England
+city: London
+categories: conference
+startdate: 2016-01-16
+enddate: 2016-01-20
+numberOfDays: 4
+videos: https://vimeo.com/channels/1027318/
+website: http://ndc-london.com/
+
+---
