@@ -1,0 +1,15 @@
+---
+layout: conference
+title:  "Goto Copenhagen 2016"
+date:   2016-04-17 8:34:33 +0100
+location: https://www.google.dk/maps/place/Bella+Center/@55.6381385,12.5764086,17z/data=!3m2!4b1!5s0x465254a4f216685f:0x68fc824c14c74105!4m2!3m1!1s0x465254a363269c3d:0x61db300fc92fb898
+country: Denmark
+city: Copenhagen
+categories: conference
+startdate: 2016-10-03
+enddate: 2016-10-04
+numberOfDays: 2
+videos: https://www.youtube.com/playlist?list=PLEx5khR4g7PL0fDNJkI2dHhqeckQTAbes
+website: http://gotocon.com/cph-2016/
+
+---
