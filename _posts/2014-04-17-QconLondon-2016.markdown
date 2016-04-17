@@ -1,0 +1,15 @@
+---
+layout: conference
+title:  "Qcon London 2016"
+date:   2016-04-17 8:34:33 +0100
+location: https://www.google.dk/maps/place/QEII+Centre/@51.5002254,-0.1312213,17z/data=!3m1!4b1!4m2!3m1!1s0x487604c4cb112d93:0x39efdcc690b64ca3
+country: England
+city: London
+categories: conference
+startdate: 2016-03-07
+enddate: 2016-03-09
+numberOfDays: 3
+videos: https://www.youtube.com/channel/UCLI_iq5wEySHTOb7xk2F7Ww
+website: https://qconlondon.com/london-2016/index.html
+
+---
