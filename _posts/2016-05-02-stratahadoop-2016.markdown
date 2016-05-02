@@ -1,0 +1,15 @@
+---
+layout: conference
+title:  "Strata + Hadoop World, June 1–3, 2016, London, United Kingdom"
+date:   2016-05-02 8:34:33 +0100
+location: https://www.google.com/maps/place/ExCeL+London/@51.5084601,0.0276573,17z/data=!3m1!4b1!4m2!3m1!1s0x47d8a80ce609e50d:0xa0de5f705d7aec7
+country: England
+city: London
+categories: conference
+startdate: 2016-06-01
+enddate: 2016-06-03
+numberOfDays: 3
+videos: https://www.youtube.com/playlist?list=PL055Epbe6d5bKhor3JosKx7ktqn3BOF_X
+website: http://conferences.oreilly.com/strata/hadoop-big-data-eu
+
+---
