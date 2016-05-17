@@ -1,0 +1,15 @@
+---
+layout: conference
+title:  "Oscon London 2016"
+date:   2016-05-17 6:34:33 +0100
+location: 
+country: England
+city: London
+categories: conference
+startdate: 2016-10-17
+enddate: 2016-10-18
+numberOfDays: 3
+videos: https://www.youtube.com/playlist?list=PL055Epbe6d5bPmYLVnApy_UwQix9RfL94
+website: http://conferences.oreilly.com/oscon/open-source-eu
+
+---
