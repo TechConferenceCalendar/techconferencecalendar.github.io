@@ -1,0 +1,15 @@
+---
+layout: conference
+title:  "JAX London 2016"
+date:   2016-05-29 8:34:33 +0100
+location: https://www.google.com/maps?ll=51.535584,-0.106154&z=14&t=m&hl=en&gl=US&mapclient=apiv3&cid=5457198200606330812
+country: England
+city: London
+categories: conference
+startdate: 2016-10-10
+enddate: 2016-10-12
+numberOfDays: 3
+videos: https://www.youtube.com/channel/UCLI_iq5wEySHTOb7xk2F7Ww
+website: https://jaxlondon.com/
+
+---
