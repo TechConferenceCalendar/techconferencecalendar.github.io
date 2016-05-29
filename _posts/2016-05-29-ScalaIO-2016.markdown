@@ -1,0 +1,15 @@
+---
+layout: conference
+title:  "Scala IO"
+date:   2016-04-17 8:34:33 +0100
+location: https://www.google.com/maps?ll=45.78392,4.869014&z=12&t=m&hl=da-DK&gl=FR&mapclient=embed&cid=11455951414259567222
+country: Frankring
+city: Lyon
+categories: conference
+startdate: 2016-10-27
+enddate: 2016-10-28
+numberOfDays: 2
+videos: 
+website: http://www.scala.io/
+
+---
